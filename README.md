@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Bibek 😉, a Computer Science Student and Programmer 👨🏻‍💻 from Nepal . I'm a ditributed systems learner. Beside's programming, I like Travelling, Football and RockNRoll Musics.
+Hi, I'm Bibek 😉, a Applied Computing Student and Programmer 👨🏻‍💻 from Nepal . I'm a ditributed systems learner. Beside's programming, I like Travelling, Football and RockNRoll Musics.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
