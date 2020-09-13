@@ -14,10 +14,9 @@ Hi, I'm Bibek 😉, an Applied Computing Student and Programmer 👨🏻‍💻 
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently studying Distributed Systems(https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011).
 - 🤔 My research interests are with Distributed Systems, Software Design, etc.
-- 💼 I’m planning to pursue a Msc. degree.
 - 💬 Ask me about anything, I would like to answer.
+- I am searching for a job oppurtunity.
 - 📫 Please email via bibekgaihre123@outlook.com to reach me.
 - 👀 See my [Curriculum Vitae](https://bibekgaire.now.sh/) to get more info.
 
