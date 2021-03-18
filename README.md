@@ -12,7 +12,7 @@ Hi, I'm Bibek 😉, an Applied Computing Student and Programmer 👨🏻‍💻 
 - 🤔 My research interests are with Distributed Systems, Software Design, etc.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via bibekgaihre123@outlook.com to reach me.
-- 👀 See my [Curriculum Vitae](https://bibekgaire.now.sh/) to get more info.
+- 👀 See my [Curriculum Vitae](https://bibekgaire.now.sh/aboutme) to get more info.
 
 ![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibekgaihre&show_icons=true&hide_border=true)
 
