@@ -9,7 +9,6 @@ Hi, I'm Bibek 😉, an Applied Computing Student and Programmer 👨🏻‍💻 
 
 **Current Status Quo**
 - Working on for my university study.
-- 📫 Please email via bibekgaihre123@outlook.com to reach me.
 - 👀 See my [Curriculum Vitae](https://bibekgaire.tech/aboutme) to get more info.
 
 ![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibekgaihre&show_icons=true&hide_border=true)
