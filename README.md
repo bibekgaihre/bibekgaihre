@@ -13,4 +13,6 @@ Hi, I'm Bibek 😉, an Applied Computing Student and Programmer 👨🏻‍💻 
 
 ![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibekgaihre&show_icons=true&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekgaihre)](https://github.com/bibekgaihre/github-readme-stats)
+
 ⭐️ From [Bibek Gaire](https://github.com/bibekgaihre)
