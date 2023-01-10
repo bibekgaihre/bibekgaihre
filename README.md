@@ -7,9 +7,6 @@ Hi, I'm Bibek 😉, an Applied Computing Student and Programmer 👨🏻‍💻 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
-- Working on for my university study.
-- If you have oppurtunity for Masters thesis on Distributed applications or Web3, Do let me know. 
 
 ![Bibek's github stats](https://github-readme-stats.vercel.app/api?username=bibekgaihre&show_icons=true&hide_border=true)
 
